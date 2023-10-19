@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.settings
+.vs
+.vscode
+cmake/*
+cmake-build-debug/*
+cmake-build-debug-event-trace/*
+build/*
+Debug/*
